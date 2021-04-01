@@ -8,3 +8,4 @@ Snakes and Ladders Game is a traditional game was programmed as a project for Ja
 - Each player has a unique color.
 - Each player can set a trap as a part of the game.
 
+![screenshot_902](https://user-images.githubusercontent.com/64940728/113256420-d6882980-92d1-11eb-8731-503fe75becda.jpg)
